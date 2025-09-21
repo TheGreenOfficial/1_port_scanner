@@ -1,2 +1,2 @@
 This is a minimal tcp prot scanner written in c using socket programming in linux...
-<img width="100%" height="272" alt="Screenshot From 2025-09-21 11-13-47" src="https://github.com/user-attachments/assets/b4c151a4-281f-4777-9f94-a5fb54bdf52f" />
+<img width="80%" height="272" alt="Screenshot From 2025-09-21 11-13-47" src="https://github.com/user-attachments/assets/b4c151a4-281f-4777-9f94-a5fb54bdf52f" />
